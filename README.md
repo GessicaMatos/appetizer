@@ -1,2 +1,0 @@
-# appetizer
-Mobile development project
